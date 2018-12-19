@@ -1,0 +1,49 @@
+﻿  AsteroidsSDL.cpp
+  cAsteroid.cpp
+  cBkGround.cpp
+  cBulletStuVer.cpp
+  cButton.cpp
+  cButtonMgr.cpp
+  cFont.cpp
+  cFontMgr.cpp
+  cGameStuVer.cpp
+c:\users\ruben\source\repos\project4\project4\cgamestuver.cpp(187): warning C4838: la conversione da 'double' a 'int' richiede una conversione verso un tipo di dati più piccolo
+c:\users\ruben\source\repos\project4\project4\cgamestuver.cpp(187): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
+  cRocket.cpp
+  cSDL2WNDManager.cpp
+  cSound.cpp
+  cSoundMgr.cpp
+  cSprite.cpp
+  cTexture.cpp
+  cTextureMgr.cpp
+  Generazione codice in corso...
+  796 of 1390 functions (57.3%) were compiled, the rest were copied from previous compilation.
+    236 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Generazione codice terminata
+  Project4.vcxproj -> C:\Users\Ruben\source\repos\Project4\Release\Project4.exe
+  copying SDL2.dll to debug directory
+  Impossibile trovare il file - *.*
+  0 File copiati
+  0 File copiati
+  SDL2\SDL2-2.0.4\lib\x86\SDL2.dll
+  1 File copiati
+  SDL2\SDL2_image-2.0.1\lib\x86\libjpeg-9.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\libpng16-16.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\libtiff-5.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\libwebp-4.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\SDL2_image.dll
+  SDL2\SDL2_image-2.0.1\lib\x86\zlib1.dll
+  6 File copiati
+  SDL2\SDL2_ttf-2.0.14\lib\x86\libfreetype-6.dll
+  SDL2\SDL2_ttf-2.0.14\lib\x86\SDL2_ttf.dll
+  SDL2\SDL2_ttf-2.0.14\lib\x86\zlib1.dll
+  3 File copiati
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libFLAC-8.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libmodplug-1.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libogg-0.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbis-0.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\libvorbisfile-3.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\SDL2_mixer.dll
+  SDL2\SDL2_mixer-2.0.1\lib\x86\smpeg2.dll
+  7 File copiati

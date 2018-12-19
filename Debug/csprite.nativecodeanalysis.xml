@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::spriteDimensions' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::spriteTranslation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::mSourceRect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::textureHeight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>15</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::textureWidth' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@XZ</DECORATED>
+    <FUNCLINE>15</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::spriteDimensions' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@PAVcTexture@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::spriteTranslation' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@PAVcTexture@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::mSourceRect' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@PAVcTexture@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::textureHeight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@PAVcTexture@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>csprite.cpp</FILENAME>
+      <LINE>31</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cSprite::textureWidth' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cSprite::{ctor}</FUNCTION>
+    <DECORATED>??0cSprite@@QAE@PAVcTexture@@@Z</DECORATED>
+    <FUNCLINE>31</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

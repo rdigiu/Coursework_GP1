@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>ctexture.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cTexture::textureWidth' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cTexture::{ctor}</FUNCTION>
+    <DECORATED>??0cTexture@@QAE@XZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>ctexture.cpp</FILENAME>
+      <LINE>16</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cTexture::textureHeight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cTexture::{ctor}</FUNCTION>
+    <DECORATED>??0cTexture@@QAE@XZ</DECORATED>
+    <FUNCLINE>16</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>ctexture.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cTexture::textureWidth' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cTexture::{ctor}</FUNCTION>
+    <DECORATED>??0cTexture@@QAE@PBDPAUSDL_Renderer@@@Z</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>ctexture.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cTexture::textureHeight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cTexture::{ctor}</FUNCTION>
+    <DECORATED>??0cTexture@@QAE@PBDPAUSDL_Renderer@@@Z</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>ctexture.cpp</FILENAME>
+      <LINE>27</LINE>
+      <COLUMN>10</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cTexture::sdlTextureID' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cTexture::{ctor}</FUNCTION>
+    <DECORATED>??0cTexture@@QAE@PBDPAUSDL_Renderer@@@Z</DECORATED>
+    <FUNCLINE>27</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

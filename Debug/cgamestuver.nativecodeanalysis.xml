@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::generate' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::deltaTime' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::theGameState' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::theBtnType' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::renderWidth' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::renderHeight' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::theScore' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::isPlaying' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>20</LINE>
+      <COLUMN>7</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cGame::theAreaClicked' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cGame::{ctor}</FUNCTION>
+    <DECORATED>??0cGame@@QAE@XZ</DECORATED>
+    <FUNCLINE>20</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>148</LINE>
+      <COLUMN>155</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '-' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '-' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>cGame::render</FUNCTION>
+    <DECORATED>?render@cGame@@QAEXPAUSDL_Window@@PAUSDL_Renderer@@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cgamestuver.cpp</FILENAME>
+      <LINE>192</LINE>
+      <COLUMN>122</COLUMN>
+    </SFA>
+    <DEFECTCODE>26451</DEFECTCODE>
+    <DESCRIPTION>Arithmetic overflow: Using operator '+' on a 4 byte value and then casting the result to a 8 byte value. Cast the value to the wider type before calling operator '+' to avoid overflow (io.2).</DESCRIPTION>
+    <FUNCTION>cGame::render</FUNCTION>
+    <DECORATED>?render@cGame@@QAEXPAUSDL_Window@@PAUSDL_Renderer@@@Z</DECORATED>
+    <FUNCLINE>136</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

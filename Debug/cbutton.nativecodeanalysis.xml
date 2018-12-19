@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\ruben\source\repos\project4\project4\</FILEPATH>
+      <FILENAME>cbutton.cpp</FILENAME>
+      <LINE>14</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'cButton::buttonClickedRC' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>cButton::{ctor}</FUNCTION>
+    <DECORATED>??0cButton@@QAE@XZ</DECORATED>
+    <FUNCLINE>14</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
