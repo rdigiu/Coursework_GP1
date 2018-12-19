@@ -1,22 +1,4 @@
-﻿  AsteroidsSDL.cpp
-  cAsteroid.cpp
-  cBkGround.cpp
-  cBulletStuVer.cpp
-  cButton.cpp
-  cButtonMgr.cpp
-  cFont.cpp
-  cFontMgr.cpp
-  cGameStuVer.cpp
-c:\users\ruben\source\repos\project4\project4\cgamestuver.cpp(187): warning C4838: la conversione da 'double' a 'int' richiede una conversione verso un tipo di dati più piccolo
-c:\users\ruben\source\repos\project4\project4\cgamestuver.cpp(187): warning C4244: 'inizializzazione': conversione da 'double' a 'int'. Possibile perdita di dati.
-  cRocket.cpp
-  cSDL2WNDManager.cpp
-  cSound.cpp
-  cSoundMgr.cpp
-  cSprite.cpp
-  cTexture.cpp
-  cTextureMgr.cpp
-  Generazione del codice in corso...
+﻿  cButtonMgr.cpp
   Project4.vcxproj -> C:\Users\Ruben\source\repos\Project4\Debug\Project4.exe
   copying SDL2.dll to debug directory
   Impossibile trovare il file - *.*

@@ -60,12 +60,6 @@
     <ClInclude Include="GameConstants.h">
       <Filter>File di intestazione</Filter>
     </ClInclude>
-    <ClInclude Include="cButton.h">
-      <Filter>File di intestazione</Filter>
-    </ClInclude>
-    <ClInclude Include="cButtonMgr.h">
-      <Filter>File di intestazione</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AsteroidsSDL.cpp">
@@ -116,5 +110,8 @@
     <ClCompile Include="cButtonMgr.cpp">
       <Filter>File di origine</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
 </Project>

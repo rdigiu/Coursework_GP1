@@ -9,7 +9,6 @@ cGame* cGame::pInstance = NULL;
 static cTextureMgr* theTextureMgr = cTextureMgr::getInstance();
 static cFontMgr* theFontMgr = cFontMgr::getInstance();
 static cSoundMgr* theSoundMgr = cSoundMgr::getInstance();
-static cButtonMgr* theButtonMgr = cButtonMgr::getInstance();
 
 
 /*
@@ -45,11 +44,11 @@ void cGame::initialise(SDL_Window* theSDLWND, SDL_Renderer* theRenderer)
 	SDL_SetRenderDrawColor(theRenderer, 0, 0, 0, 255);
 	SDL_RenderPresent(theRenderer);
 	
-	/* Let the computer pick a random number */
-	random_device rd;    // non-deterministic engine 
-	mt19937 gen{ rd() }; // deterministic engine. For most common uses, std::mersenne_twister_engine, fast and high-quality.
-	uniform_int_distribution<> AsteroidDis{ 0, 10 }; //increased the asteroid distribution
-	uniform_int_distribution<> AsteroidTextDis{ 0, 3 };
+	///* Let the computer pick a random number */
+	//random_device rd;    // non-deterministic engine 
+	//mt19937 gen{ rd() }; // deterministic engine. For most common uses, std::mersenne_twister_engine, fast and high-quality.
+	//uniform_int_distribution<> AsteroidDis{ 0, 10 }; //increased the asteroid distribution
+	//uniform_int_distribution<> AsteroidTextDis{ 0, 3 };
 
 	theTextureMgr->setRenderer(theRenderer);
 	theFontMgr->initFontLib();

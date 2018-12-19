@@ -59,7 +59,6 @@ private:
 	vector<LPCSTR> btnNameList;
 	vector<LPCSTR> btnTexturesToUse;
 	vector<SDL_Point> btnPos;
-	vector <cButton> theButtons;
 	gameState theGameState;
 	btnTypes theBtnType;
 	// Fonts to use
@@ -76,7 +75,6 @@ private:
 	int renderWidth, renderHeight;
 	int theScore;
 	string strScore;
-	bool isPlaying;
 	bool updateScore = false;
 	int frames = 1;
 };
